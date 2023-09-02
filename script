@@ -5,7 +5,7 @@ Facebook = {
         actionDelay: 1000,
         scrollDelay: 5000,
         // set to -1 for no limit
-        maxRequestsToAccept: -1,
+        maxRequestsToAccept: 50,
         totalRequestsAccepted: 0,
         // set string to be present in names to be accepted, leave empty to accept all
         mustIncludeInName: [],
